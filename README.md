@@ -29,14 +29,6 @@ I'm a software engineer passionate about building impactful, human-centered tech
 
 ---
 
-### 🚀 Featured Projects
-
-- 🩺 [Surgical AR Collaboration Tool](https://github.com/yourrepo) – HoloLens-based remote supervision for surgeons
-- 🛒 [Costco Chaos](https://github.com/yourrepo) – Meme-driven, fast-paced shopping game built in Unity
-- 🌐 [Hack the 6ix Site](https://github.com/yourrepo) – Marketing platform for Canada's largest summer hackathon
-
----
-
 ### 📊 GitHub Stats
 
 ![Emen's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-deng&show_icons=true&theme=radical)
