@@ -31,7 +31,7 @@ I'm a software engineer passionate about building impactful, human-centered tech
 
 ### 📊 GitHub Stats
 
-![Emen's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmenDeng&show_icons=true&theme=radical)
+![Emen's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-deng&show_icons=true&theme=radical)
 
 ---
 
