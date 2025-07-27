@@ -45,7 +45,7 @@ I'm a software engineer passionate about building impactful, human-centered tech
 ### 📫 Get In Touch
 
 - 📧 Email: emen.dengg@gmail.com  
-- 💡 Open to collaboration, mentorship, or just nerding out over cool tech!
+- 💡 Open to opportunities, mentorship, or just nerding out over cool tech!
 
 ---
 
