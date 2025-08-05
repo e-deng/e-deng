@@ -27,11 +27,6 @@ I'm a software engineer passionate about building impactful, human-centered tech
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-![Emen's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-deng&show_icons=true&theme=radical)
 
 ---
 
